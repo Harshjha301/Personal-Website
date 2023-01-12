@@ -69,6 +69,13 @@ h4 {
     float: left;
     margin-right: 30px;
 }
+.android {
+    width: 25%;
+    background-color:#BAFFB4;
+    border-radius: 10%;
+    float: left;
+    margin-right: 30px;
+}
 .payment {
     width: 25%;
     background-color:azure;
